@@ -2,5 +2,5 @@
 
 Hello,
 
-my name'is Djonathan, I'm Brazilian and I like my work as a Full Stack Java Developer.
+my name's Djonathan, I'm Brazilian and I like to work as a Full Stack Java Developer.
 Spring+React = S2.
