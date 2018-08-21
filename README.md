@@ -1,8 +1,31 @@
 # hello-world
 
-S2 :D
+## :heart: :smile:
+
+### Description
 
 Hello,
 
-my name's Djonathan, I'm Brazilian and I like to work as a Full Stack Java Developer.
+my name's __*Djonathan*__, I'm __Brazilian__ and I like to work as a *Full Stack Java Developer*.
 Spring+React = S2.
+
+### Why mastering [GitHub](http://github.com)
+
+![GitHub Logo](/GitHub.png)
+
+1. I'll be a better user
+1. It'll make me more competitive
+1. I like to master things
+
+Like I always heard
+> Practice makes perfect
+
+This is for you that loves __Java's Ternary Operator__: `raining ? openUmbrella() : takeSunglasses()`
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
