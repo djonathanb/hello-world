@@ -1,6 +1,6 @@
 # hello-world
 
-## S2 :D
+## :heart: :smile:
 
 ### Description
 
@@ -21,3 +21,11 @@ Like I always heard
 > Practice makes perfect
 
 This is for you that loves __Java's Ternary Operator__: `raining ? openUmbrella() : takeSunglasses()`
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
