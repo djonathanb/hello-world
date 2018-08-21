@@ -11,7 +11,7 @@ Spring+React = S2.
 
 ### Why mastering [GitHub](http://github.com)
 
-![GitHub Logo](/Github.png)
+![GitHub Logo](/GitHub.png)
 
 1. I'll be a better user
 1. It'll make me more competitive
