@@ -9,7 +9,14 @@ Hello,
 my name's __*Djonathan*__, I'm __Brazilian__ and I like to work as a *Full Stack Java Developer*.
 Spring+React = S2.
 
-### Why mastering [GitHub](http://github.com)
+### Table of Contents
+
+- [Why mastering Github](#why_mastering_github)
+
+<a name="why_mastering_github"/>
+### Why mastering Github
+
+[GitHub](http://github.com) is an amazing tool to host your source codes based on [Git](https://git-scm.com/)
 
 ![GitHub Logo](/GitHub.png)
 
